@@ -8,8 +8,9 @@ We have discussed so far
 
 
 EU (Ireland) - http://54.229.245.159:8888/?token=b1e9dcb67e6248a591c9546c06fa1e46c672be7fac8f2fb3
-Canada (Central) 
 US East (Ohio) http://18.188.156.151:8888/?token=5c21089c664cd88534f87e29e61059e518b641bbd1cfaa42
+US West (Oragon) http://54.149.159.91:8888 (pwd: pass123)
+
+Canada (Central) 
 US West (N. California)
 US East (N. Virginia) 
-US West (Oragon) http://54.149.159.91:8888 (pwd: pass123)
