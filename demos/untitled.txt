@@ -1,0 +1,8 @@
+We have discussed so far
+- regression problem 
+- metrics for regression - mse, 
+- feature engineering - null treatment, outliers, one hot encoding, bucketing, scaling, normalization (z-score), log transformation, 
+- gradient descent - loss/cost function, derivatives, learning rate, epochs, mini batch, batch-size (32, 64, 128, 256), number of batches of total size/batch_size
+- Classification problems - iris, complex decision region, how multi layers can support complex decision region, metrics for classification - accuracy, recall, precision, f1, confusion, auc, cross encropy loss, softmax, sigmoid 
+- 
+
