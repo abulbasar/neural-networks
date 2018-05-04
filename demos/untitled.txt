@@ -6,3 +6,6 @@ We have discussed so far
 - Classification problems - iris, complex decision region, how multi layers can support complex decision region, metrics for classification - accuracy, recall, precision, f1, confusion, auc, cross encropy loss, softmax, sigmoid 
 - 
 
+
+
+http://54.229.245.159:8888/?token=b1e9dcb67e6248a591c9546c06fa1e46c672be7fac8f2fb3
